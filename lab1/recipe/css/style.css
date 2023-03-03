@@ -1,5 +1,5 @@
 body{
-background-color: papayawhip;
+   background-image:url(https://courses.cs.washington.edu/courses/cse190m/09sp/homework/1/silverware.jpg); 
 }
 h1{
     color: brown;
@@ -8,5 +8,6 @@ h2{
     color: blueviolet
 }
 img{
-    size: 10mm;
+    
+
 }
