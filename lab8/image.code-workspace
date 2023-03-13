@@ -1,0 +1,34 @@
+{
+	"folders": [
+		{
+			"path": "../image"
+		},
+		{
+			"path": "../lab0"
+		},
+		{
+			"path": "../lab1"
+		},
+		{
+			"path": "../lab2"
+		},
+		{
+			"path": "../lab3"
+		},
+		{
+			"path": "../lab4"
+		},
+		{
+			"path": "../lab5"
+		},
+		{
+			"path": "../lab6"
+		},
+		{
+			"path": "../lab7"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "lab7"
+	}
+}
