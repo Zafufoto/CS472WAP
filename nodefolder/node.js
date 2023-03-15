@@ -1,5 +1,5 @@
 var http = require('http');
-var dt = require('./myModule');
+var dt = require('./myModulenp');
 http.createServer(function (req, res) {
 res.writeHead(200,
 {'Content-Type': 'text/html'});
